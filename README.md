@@ -7,7 +7,9 @@ While her result worked, the number of money transfers wasn't minimized, so I th
 
 Contains:
   - balanceBill.py
-  
-  - takes as input a dictionary mapping person names to amount paid i.e. {'Kristian': 20.50, 'Alissa': 45.00}
+    - takes as input a dictionary mapping person names to amount paid i.e. {'Kristian': 25.00, 'Alissa': 45.00}
+    - returns a nested dictionary mapping person names to amounts owed to friends 
+      i.e. {'Kristian: {'Alissa': 10}, 'Alissa': {'Kristian: 0}}
+      
 
 Currently, since we're using a dictionary structure, we can't have multiple people with the same name, which can be alleviated by using different identifies (i.e. integers) that then map to individuals.
