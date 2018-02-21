@@ -15,4 +15,4 @@ Returns a nested dictionary mapping person names to amounts owed to friends
   - i.e. {'Kristian: {'Alissa': 10}, 'Alissa': {'Kristian: 0}}
       
 
-Currently, since we're using a dictionary structure, we can't have multiple people with the same name, which can be alleviated by using different identifies (i.e. integers) that then map to individuals.
+Currently, since we're using a dictionary structure, we can't have multiple people with the same name, which can be alleviated by using different identifies (i.e. integers) that then map to individual names.
