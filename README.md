@@ -10,7 +10,8 @@ Contains:
 
 Takes as input a dictionary mapping person names to amount paid
   - i.e. {'Kristian': 25, 'Alissa': 45}
-Teturns a nested dictionary mapping person names to amounts owed to friends
+
+Returns a nested dictionary mapping person names to amounts owed to friends
   - i.e. {'Kristian: {'Alissa': 10}, 'Alissa': {'Kristian: 0}}
       
 
