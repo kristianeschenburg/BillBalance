@@ -1,5 +1,5 @@
 # BillBalance
-Balance a bill across a group of people, some who have paid more or less than others.
+Balance a bill across a group of people.
 
 Recently, my friends and I went on a ski trip where we'd all split various purchases, such as the Airbnb, food, transportation, and lift tickets amonst everyone.  The end result was that some people had spent more than others (with some people having spent nothing).  We left the balancing of the bill to one person, who ended up using **Splitwise** to compute the various money transfers between people such that everyone ended up paying the same amount
 
